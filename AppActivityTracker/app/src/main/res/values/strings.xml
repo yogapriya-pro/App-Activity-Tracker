@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Activity Tracker</string>
+    <string name="app_activity_details">App activity details</string>
+    <string name="screen_time">Screen time</string>
+    <string name="today">Today</string>
+    <string name="set_timers_title">Set timers for your apps</string>
+    <string name="set_timers_desc">You can set daily timers for most apps. When the app timer ends, the app is paused for the rest of the day.</string>
+    <string name="show_app_dashboard">Show app dashboard</string>
+    <string name="app_timer">App timer</string>
+    <string name="no_timer">No timer</string>
+    <string name="manage_notifications">Manage notifications</string>
+    <string name="settings">Settings</string>
+    <string name="daily">Daily</string>
+    <string name="hourly">Hourly</string>
+    <string name="no_usage_data">No usage data available</string>
+    <string name="permission_title">Usage Access Required</string>
+    <string name="permission_message">This app needs access to usage statistics to show your screen time data. Please grant access in Settings.</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="set_app_timer">Set app timer</string>
+    <string name="less_than_1_min">Less than 1 minute</string>
+</resources>
